@@ -1,4 +1,4 @@
-FROM jboss/base:latest
+FROM greenpath/jboss-base:latest
 MAINTAINER Marek Goldmann <mgoldman@redhat.com>
 
 # User root user to install software
