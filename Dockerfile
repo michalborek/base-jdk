@@ -1,4 +1,4 @@
-FROM jboss/base:latest
+FROM greenpath/jboss-base:latest
 MAINTAINER Michal Borek <michal@greenpath.pl>
 
 # User root user to install software
